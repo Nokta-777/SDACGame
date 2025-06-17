@@ -1,7 +1,8 @@
-[gd_scene load_steps=4 format=3 uid="uid://bmtn20rj50nk7"]
+[gd_scene load_steps=5 format=3 uid="uid://bmtn20rj50nk7"]
 
 [ext_resource type="PackedScene" uid="uid://dxta7b5dqcc0k" path="res://scenes/player.tscn" id="1_6lgq8"]
 [ext_resource type="PackedScene" uid="uid://cmqy3rcncspna" path="res://scenes/Camera2D_GMTK_ready.tscn" id="2_p70ar"]
+[ext_resource type="PackedScene" uid="uid://dyjc126m6aka6" path="res://scenes/coin.tscn" id="3_p70ar"]
 
 [sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_fr1sv"]
 distance = -5.0
@@ -9,6 +10,7 @@ distance = -5.0
 [node name="testing_room" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource("1_6lgq8")]
+z_index = 5
 position = Vector2(0, -22)
 
 [node name="Camera2D" parent="Player" instance=ExtResource("2_p70ar")]
@@ -20,3 +22,6 @@ zoom = Vector2(0.25, 0.25)
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
 position = Vector2(0, 14)
 shape = SubResource("WorldBoundaryShape2D_fr1sv")
+
+[node name="Coin" parent="." instance=ExtResource("3_p70ar")]
+position = Vector2(303, -254)

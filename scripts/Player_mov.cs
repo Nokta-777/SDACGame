@@ -42,7 +42,7 @@ public partial class Player_mov : CharacterBody2D
 
 	public override void _Ready()
 	{
-		footstepAudio = GetNode<AudioStreamPlayer2D>("Footstepaudio");
+		//footstepAudio = GetNode<AudioStreamPlayer2D>("Footstepaudio");
 	}
 
 	public override void _PhysicsProcess(double delta)
