@@ -1,0 +1,4 @@
+res://scenes/testing_room.tscn
+res://scripts/Coin.cs
+res://scripts/killzone.cs
+res://scripts/Player_mov.cs

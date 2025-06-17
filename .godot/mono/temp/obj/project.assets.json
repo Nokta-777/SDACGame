@@ -88,19 +88,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maxil\\.nuget\\packages\\": {}
+    "C:\\Users\\ordi2125055\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxil\\OneDrive\\Bureau\\Cours\\semaine_projets_perso\\SDACGAME\\SDACGame\\CPESGame.csproj",
+      "projectUniqueName": "C:\\Users\\ordi2125055\\Documents\\projet fin d'année\\SDACGame\\CPESGame.csproj",
       "projectName": "CPESGame",
-      "projectPath": "C:\\Users\\maxil\\OneDrive\\Bureau\\Cours\\semaine_projets_perso\\SDACGAME\\SDACGame\\CPESGame.csproj",
-      "packagesPath": "C:\\Users\\maxil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxil\\OneDrive\\Bureau\\Cours\\semaine_projets_perso\\SDACGAME\\SDACGame\\.godot\\mono\\temp\\obj\\",
+      "projectPath": "C:\\Users\\ordi2125055\\Documents\\projet fin d'année\\SDACGame\\CPESGame.csproj",
+      "packagesPath": "C:\\Users\\ordi2125055\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ordi2125055\\Documents\\projet fin d'année\\SDACGame\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maxil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ordi2125055\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -123,8 +123,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -154,26 +153,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.14, 8.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.14, 8.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.14, 8.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

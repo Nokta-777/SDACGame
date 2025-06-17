@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1750149274
+icon.svg::CompressedTexture2D::7679379312863144821::1750149166::1750149278::1::::<><><>0<>0<>235aa5a39510616be364849833436a74<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1750149166::0::1::::<><><>0<>0<><>::
+::res://assets/::1750149166
+::res://assets/sounds/::1750149166
+footstep.wav::AudioStreamWAV::3594756661474296647::1750149166::1750149283::1::::<><><>0<>0<>3d1544cd537382b1a0bb7dd221d4ae90<>res://.godot/imported/footstep.wav-651b5fb548383029c474cda01134d9f0.sample::
+::res://assets/sprites/::1750149166
+coin.png::CompressedTexture2D::8809410923429153784::1750149166::1750149278::1::::<><><>0<>0<>046b4847b1ba295782d42ef9cd90170c<>res://.godot/imported/coin.png-c8309bf0f8fb5f3a7d1e96a4eb3f02ce.ctex::
+platforms.png::CompressedTexture2D::8707058276554964262::1750149166::1750149278::1::::<><><>0<>0<>95c48a0fa117ce517bf08f0c14904ad1<>res://.godot/imported/platforms.png-3869606db457611ed4193d705dc364e4.ctex::
+traveller.png::CompressedTexture2D::1037299823129795040::1750149166::1750149283::1::::<><><>0<>0<>7cc2f932fd15349d09df47ef6b7c1dc0<>res://.godot/imported/traveller.png-81f4ba319df78edfa3702257683f410b.ctex::
+world_tileset.png::CompressedTexture2D::4826887768594763928::1750149166::1750149278::1::::<><><>0<>0<>0101029192e6d5124be3fdecc7a595ee<>res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex::
+::res://Bible production/::1750149166
+Bible de production.md::TextFile::-1::1750149166::0::1::::<><><>0<>0<><>::
+::res://scenes/::1750149166
+Camera2D_GMTK_ready.tscn::PackedScene::5649645641743899078::1750149166::0::1::::<><><>0<>0<><>::
+coin.tscn::PackedScene::8862543029411732471::1750149166::0::1::::<><><>0<>0<><>::uid://b0dl0s2vtqc57::::res://scripts/Coin.cs<>uid://dxrlyfy1gn4wq::::res://assets/sprites/coin.png
+killzone.tscn::PackedScene::5865065065886177483::1750149166::0::1::::<><><>0<>0<><>::uid://c1u2ndq4aa2gr::::res://scripts/killzone.cs
+lvl1.tscn::PackedScene::688817584064179636::1750149166::0::1::::<><><>0<>0<><>::
+player.tscn::PackedScene::8812885876511392468::1750149166::0::1::::<><><>0<>0<><>::uid://dibstulwcg87c::::res://scripts/Player_mov.cs<>uid://o1qgacs2oou7::::res://assets/sprites/traveller.png
+testing_room.tscn::PackedScene::3268748861813457200::1750149166::0::1::::<><><>0<>0<><>::uid://dxta7b5dqcc0k::::res://scenes/player.tscn<>uid://cmqy3rcncspna::::res://scenes/Camera2D_GMTK_ready.tscn
+::res://scripts/::1750149166
+Coin.cs::CSharpScript::4148048427784331828::1750149166::0::1::::<><><>0<>0<><>::
+killzone.cs::CSharpScript::6640701614786277609::1750149166::0::1::::<><><>0<>0<><>::
+Player_mov.cs::CSharpScript::7723965082353989910::1750149166::0::1::::<><><>0<>0<><>::
