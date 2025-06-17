@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPESGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78aab672b9c3437ee6eb464ad006946928a603c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab1d7a6daab5432588d82f236ef5f3cf7be25eb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPESGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPESGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
