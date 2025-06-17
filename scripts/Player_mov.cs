@@ -106,6 +106,20 @@ public partial class Player_mov : CharacterBody2D
 			}
 		}
 
+		// --- FOOTSTEP SOUND ---
+		bool isMoving = Mathf.Abs(velocity.X) > 5f;
+		bool onGround = IsOnFloor();
+
+		if (isMoving && onGround)
+		{
+			if (!footstepAudio.Playing)
+				footstepAudio.Play();
+		}
+		else
+		{
+			footstepAudio.Stop();
+		}
+
 		Velocity = velocity;
 		MoveAndSlide();
 	}

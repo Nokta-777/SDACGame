@@ -1,7 +1,8 @@
-[gd_scene load_steps=6 format=3 uid="uid://dxta7b5dqcc0k"]
+[gd_scene load_steps=7 format=3 uid="uid://dxta7b5dqcc0k"]
 
 [ext_resource type="Script" uid="uid://dibstulwcg87c" path="res://scripts/Player_mov.cs" id="1_g2els"]
 [ext_resource type="Texture2D" uid="uid://o1qgacs2oou7" path="res://assets/sprites/traveller.png" id="2_g2els"]
+[ext_resource type="AudioStream" uid="uid://brhld8jd758br" path="res://assets/sounds/footstep.wav" id="3_qhqgy"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_qhqgy"]
 atlas = ExtResource("2_g2els")
@@ -33,3 +34,6 @@ sprite_frames = SubResource("SpriteFrames_dqkch")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(34, -367)
 shape = SubResource("CapsuleShape2D_g2els")
+
+[node name="Footstepaudio" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("3_qhqgy")

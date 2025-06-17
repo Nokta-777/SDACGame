@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "yMGrsAjNX4g=",
+  "dgSpecHash": "vMF/49dEpSw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxil\\OneDrive\\Bureau\\Cours\\semaine_projets_perso\\SDACGAME\\SDACGame\\CPESGame.csproj",
+  "projectFilePath": "C:\\Users\\ordi2125055\\Documents\\projet fin d'année\\SDACGame\\CPESGame.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\maxil\\.nuget\\packages\\godot.sourcegenerators\\4.4.1\\godot.sourcegenerators.4.4.1.nupkg.sha512",
-    "C:\\Users\\maxil\\.nuget\\packages\\godotsharp\\4.4.1\\godotsharp.4.4.1.nupkg.sha512",
-    "C:\\Users\\maxil\\.nuget\\packages\\godotsharpeditor\\4.4.1\\godotsharpeditor.4.4.1.nupkg.sha512",
-    "C:\\Users\\maxil\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
-    "C:\\Users\\maxil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
-    "C:\\Users\\maxil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+    "C:\\Users\\ordi2125055\\.nuget\\packages\\godot.sourcegenerators\\4.4.1\\godot.sourcegenerators.4.4.1.nupkg.sha512",
+    "C:\\Users\\ordi2125055\\.nuget\\packages\\godotsharp\\4.4.1\\godotsharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\ordi2125055\\.nuget\\packages\\godotsharpeditor\\4.4.1\\godotsharpeditor.4.4.1.nupkg.sha512"
   ],
   "logs": []
 }
